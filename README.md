@@ -54,4 +54,10 @@ MCOTM achieves:
   ↓ Maintains task migration rate at ~50%
 compared to baseline or static offloading schemes like greedy, DQN, or naive methods.
 
+Reference Paper:
+
+MCOTM: Mobility-aware Computation Offloading and Task Migration for Edge Computing in Industrial IoT
+Wei Qin, Haiming Chen, Lei Wang, Yinshui Xia, Alfredo Nascita, Antonio Pescapè
+Future Generation Computer Systems, Vol. 151, 2024, 
+
 
